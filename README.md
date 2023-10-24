@@ -1,5 +1,3 @@
-Here's your text formatted in Markdown:
-
 # "Mastermind"
 
 This code-breaking game is a fascinating step forward on your programming journey, offering an opportunity to further consolidate your understanding of our foundational concepts and to encounter some fresh, intriguing challenges.
